@@ -1,0 +1,1 @@
+(self.webpackChunk_N_E=self.webpackChunk_N_E||[]).push([[340],{1507:function(n,_,e){(window.__NEXT_P=window.__NEXT_P||[]).push(["/game/__components/helpRef",function(){return e(2264)}])}},function(n){n.O(0,[675,264,888,774,179],function(){return n(n.s=1507)}),_N_E=n.O()}]);
